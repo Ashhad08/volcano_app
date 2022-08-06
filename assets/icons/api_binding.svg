@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Group_2547" data-name="Group 2547" transform="translate(-51 -423)">
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="35" height="9" transform="translate(51 423)" fill="#1251b2"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="35" height="25" transform="translate(51 433)" fill="#1251b2"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="2" cy="2" r="2" transform="translate(53 425)" fill="#fff"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="2" cy="2" r="2" transform="translate(61 425)" fill="#fff"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="2" cy="2" r="2" transform="translate(69 425)" fill="#fff"/>
+    <text id="API" transform="translate(57 451)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">API</tspan></text>
+  </g>
+</svg>
